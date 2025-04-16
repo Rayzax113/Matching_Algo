@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dr. Zhang",
+        "position": "Computational Fluid Dynamics Lead",
+        "responsibilities": "I lead CFD analysis projects for various industries including aerospace and automotive applications. My work includes developing simulation models, validating results against experimental data, and optimizing designs based on flow analysis. I also coordinate with testing teams and implement new simulation methodologies.",
+        "help_offer": "I'm excited to help you develop expertise in computational fluid dynamics and understand its practical applications. We can explore simulation techniques, best practices for model development, and results interpretation. I particularly enjoy helping engineers learn how to effectively combine simulation tools with practical engineering judgment.",
+        "teaching_style": "Visual",
+        "match_score": 0.5733634805074658
+    },
+    {
+        "name": "Mr. Thompson",
+        "position": "Senior Pipeline Systems Engineer",
+        "responsibilities": "I manage the design and maintenance of major oil and gas pipeline projects, implementing maintenance protocols, and ensuring environmental compliance. My duties include conducting safety inspections, developing maintenance strategies, and coordinating with field installation teams. I also oversee system upgrades and emergency response planning.",
+        "help_offer": "I'd love to share my knowledge about pipeline engineering best practices and help you develop practical skills in system design and maintenance. We can focus on safety protocols, environmental compliance, and project management techniques. I'm particularly interested in helping you understand how to balance technical requirements with environmental responsibility.",
+        "teaching_style": "Visual",
+        "match_score": 0.587630437369167
+    },
+    {
+        "name": "Ms. Rodriguez",
+        "position": "Senior HVAC Systems Engineer",
+        "responsibilities": "I lead the design of complex heating and cooling systems for commercial buildings, focusing on energy efficiency and sustainability. My work includes developing initial concepts, optimizing final systems, and ensuring compliance with environmental requirements. I also coordinate with architects and building owners to align technical solutions with project goals.",
+        "help_offer": "Over the next 6 months, I'd love to share my expertise in sustainable HVAC design and help you develop practical skills in energy modeling and green building certification processes. I can guide you through real-world projects, teaching you how to balance technical requirements with sustainability goals. We can also work on developing your client communication skills, which is crucial for successfully implementing sustainable solutions.",
+        "teaching_style": "Visual",
+        "match_score": 0.5853552288280748
+    },
+    {
+        "name": "Ms. Patel",
+        "position": "Additive Manufacturing Specialist",
+        "responsibilities": "I oversee 3D printing operations and develop new manufacturing processes for complex components. My work includes optimizing print parameters, designing support structures, and implementing quality control protocols. I also research new materials and technologies to expand our manufacturing capabilities.",
+        "help_offer": "Over the next 6 months, I can help you master the fundamentals of additive manufacturing and develop expertise in advanced printing techniques. We'll explore design for additive manufacturing, material selection strategies, and quality control methods. I'm particularly passionate about helping engineers understand how to leverage 3D printing for innovative solutions.",
+        "teaching_style": "Visual",
+        "match_score": 0.5393756716149877
+    },
+    {
+        "name": "Mr. Schmidt",
+        "position": "Process Automation Engineer",
+        "responsibilities": "I develop and implement automated solutions for manufacturing processes. My work involves programming PLCs, designing control systems, and integrating various automation technologies. I also manage system upgrades, troubleshoot control issues, and train operators on new automated systems.",
+        "help_offer": "I would love to help you develop strong automation engineering skills and practical implementation experience. We can work on PLC programming, control system design, and project management techniques. I'm particularly interested in helping you learn how to balance technical requirements with practical operational constraints.",
+        "teaching_style": "Mixed",
+        "match_score": 0.4740712582127399
+    }
+]
