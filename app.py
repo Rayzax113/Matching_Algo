@@ -332,11 +332,12 @@ def upload_answers():
         return jsonify({"success": False, "error": str(e)}), 400
 
 
+# Initialization
+if os.path.exists('mentors.db'):
+    os.remove('mentors.db')
+
+mentor_system = MentorMatchingSystem()
+mentor_system.preload_sample_mentors()
+
 if __name__ == '__main__':
-    # Delete database file if exists
-    if os.path.exists('mentors.db'):
-        os.remove('mentors.db')
-    
-    mentor_system = MentorMatchingSystem()
-    mentor_system.preload_sample_mentors()
     app.run(debug=True)
