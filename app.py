@@ -272,7 +272,7 @@ class MentorMatchingSystem:
             
             if position_matches:
                 match = position_matches[0]
-                match['match_score'] = match['scores'][position]
+                match['match_score'] = float(match['scores'][position])
                 del match['scores']  # Remove the scores array before returning
                 top_matches.append(match)
         
